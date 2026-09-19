@@ -17,3 +17,11 @@ CMakeUserPresets.json
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #cmake-build-*
+/OnnxOCR-main
+/build
+/3rdparty/opencv-static/linux
+/3rdparty/opencv-static/macos
+/3rdparty/opencv-static/windows-x64
+/3rdparty/opencv-static/windows-x86
+/3rdparty/onnxruntime-1.21.0/windows-x64
+/models
